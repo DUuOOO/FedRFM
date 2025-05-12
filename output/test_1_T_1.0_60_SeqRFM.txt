@@ -1,0 +1,178 @@
+1 4 -1    #UTIL: 81   #SUP: 2   #RECENCY: 1.43
+1 4 -1 7 -1    #UTIL: 89   #SUP: 1   #RECENCY: 1.00
+1 4 -1 7 -1 2 -1    #UTIL: 106   #SUP: 1   #RECENCY: 1.00
+1 4 -1 2 -1    #UTIL: 108   #SUP: 2   #RECENCY: 1.43
+1 4 -1 2 3 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1 1 -1    #UTIL: 102   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1 1 2 -1    #UTIL: 112   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1 1 2 3 -1    #UTIL: 122   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1 1 3 -1    #UTIL: 112   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1 2 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1 2 3 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 4 -1 3 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 2 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 2 3 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 3 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1 1 -1    #UTIL: 80   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1 1 2 -1    #UTIL: 90   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1 1 2 3 -1    #UTIL: 100   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1 1 3 -1    #UTIL: 90   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1 2 -1    #UTIL: 60   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1 2 3 -1    #UTIL: 70   #SUP: 1   #RECENCY: 0.43
+1 4 -1 1 -1 3 -1    #UTIL: 60   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1    #UTIL: 52   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1 1 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1 1 2 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1 1 2 3 -1    #UTIL: 102   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1 1 3 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1 2 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1 2 3 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+1 4 -1 4 -1 3 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+1 4 -1 3 -1    #UTIL: 52   #SUP: 1   #RECENCY: 0.43
+1 -1 7 -1    #UTIL: 65   #SUP: 1   #RECENCY: 1.00
+1 -1 7 -1 2 -1    #UTIL: 82   #SUP: 1   #RECENCY: 1.00
+1 -1 2 -1    #UTIL: 62   #SUP: 2   #RECENCY: 1.43
+1 -1 1 -1    #UTIL: 50   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1 1 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1 1 2 -1    #UTIL: 102   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1 1 2 3 -1    #UTIL: 112   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1 1 3 -1    #UTIL: 102   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1 2 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1 2 3 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 -1 1 4 -1 3 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+1 -1 1 2 -1    #UTIL: 60   #SUP: 1   #RECENCY: 0.43
+1 -1 1 2 3 -1    #UTIL: 70   #SUP: 1   #RECENCY: 0.43
+1 -1 1 3 -1    #UTIL: 60   #SUP: 1   #RECENCY: 0.43
+1 -1 1 -1 1 -1    #UTIL: 70   #SUP: 1   #RECENCY: 0.43
+1 -1 1 -1 1 2 -1    #UTIL: 80   #SUP: 1   #RECENCY: 0.43
+1 -1 1 -1 1 2 3 -1    #UTIL: 90   #SUP: 1   #RECENCY: 0.43
+1 -1 1 -1 1 3 -1    #UTIL: 80   #SUP: 1   #RECENCY: 0.43
+1 -1 1 -1 2 -1    #UTIL: 50   #SUP: 1   #RECENCY: 0.43
+1 -1 1 -1 2 3 -1    #UTIL: 60   #SUP: 1   #RECENCY: 0.43
+1 -1 1 -1 3 -1    #UTIL: 50   #SUP: 1   #RECENCY: 0.43
+1 -1 4 -1 1 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+1 -1 4 -1 1 2 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 -1 4 -1 1 2 3 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+1 -1 4 -1 1 3 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+1 -1 4 -1 2 -1    #UTIL: 52   #SUP: 1   #RECENCY: 0.43
+1 -1 4 -1 2 3 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+1 -1 4 -1 3 -1    #UTIL: 52   #SUP: 1   #RECENCY: 0.43
+3 -1 1 4 -1    #UTIL: 57   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1 1 -1    #UTIL: 117   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1 1 2 -1    #UTIL: 127   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1 1 2 3 -1    #UTIL: 137   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1 1 3 -1    #UTIL: 127   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1 2 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1 2 3 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 4 -1 3 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 2 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 2 3 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 3 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1 1 -1    #UTIL: 95   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1 1 2 -1    #UTIL: 105   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1 1 2 3 -1    #UTIL: 115   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1 1 3 -1    #UTIL: 105   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1 2 -1    #UTIL: 75   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1 2 3 -1    #UTIL: 85   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 1 -1 3 -1    #UTIL: 75   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1 1 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1 1 2 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1 1 2 3 -1    #UTIL: 117   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1 1 3 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1 2 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1 2 3 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 4 -1 3 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 2 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 2 3 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 1 4 -1 3 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 1 2 -1    #UTIL: 55   #SUP: 1   #RECENCY: 1.00
+3 -1 1 2 3 -1    #UTIL: 65   #SUP: 1   #RECENCY: 1.00
+3 -1 1 3 -1    #UTIL: 55   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1    #UTIL: 65   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1 1 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1 1 2 -1    #UTIL: 117   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1 1 2 3 -1    #UTIL: 127   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1 1 3 -1    #UTIL: 117   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1 2 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1 2 3 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 4 -1 3 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 2 -1    #UTIL: 75   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 2 3 -1    #UTIL: 85   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 3 -1    #UTIL: 75   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1 1 -1    #UTIL: 85   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1 1 2 -1    #UTIL: 95   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1 1 2 3 -1    #UTIL: 105   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1 1 3 -1    #UTIL: 95   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1 2 -1    #UTIL: 65   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1 2 3 -1    #UTIL: 75   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 1 -1 3 -1    #UTIL: 65   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1    #UTIL: 57   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1 1 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1 1 2 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1 1 2 3 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1 1 3 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1 2 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1 2 3 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 4 -1 3 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 1 -1 2 3 -1    #UTIL: 55   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1 1 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1 1 2 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1 1 2 3 -1    #UTIL: 117   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1 1 3 -1    #UTIL: 107   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1 2 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1 2 3 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 4 -1 3 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 2 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 2 3 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 3 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1 1 -1    #UTIL: 75   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1 1 2 -1    #UTIL: 85   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1 1 2 3 -1    #UTIL: 95   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1 1 3 -1    #UTIL: 85   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1 2 -1    #UTIL: 55   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1 2 3 -1    #UTIL: 65   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 1 -1 3 -1    #UTIL: 55   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 4 -1 1 -1    #UTIL: 77   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 4 -1 1 2 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 4 -1 1 2 3 -1    #UTIL: 97   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 4 -1 1 3 -1    #UTIL: 87   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 4 -1 2 -1    #UTIL: 57   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 4 -1 2 3 -1    #UTIL: 67   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 4 -1 3 -1    #UTIL: 57   #SUP: 1   #RECENCY: 1.00
+3 -1 4 -1 2 3 -1    #UTIL: 57   #SUP: 1   #RECENCY: 1.00
+4 -1 7 -1    #UTIL: 74   #SUP: 1   #RECENCY: 1.00
+4 -1 7 -1 2 -1    #UTIL: 91   #SUP: 1   #RECENCY: 1.00
+4 -1 2 -1    #UTIL: 73   #SUP: 2   #RECENCY: 1.43
+4 -1 1 -1    #UTIL: 52   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1    #UTIL: 52   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1 1 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1 1 2 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1 1 2 3 -1    #UTIL: 102   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1 1 3 -1    #UTIL: 92   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1 2 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1 2 3 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+4 -1 1 4 -1 3 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+4 -1 1 2 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+4 -1 1 2 3 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+4 -1 1 3 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+4 -1 1 -1 1 -1    #UTIL: 60   #SUP: 1   #RECENCY: 0.43
+4 -1 1 -1 1 2 -1    #UTIL: 70   #SUP: 1   #RECENCY: 0.43
+4 -1 1 -1 1 2 3 -1    #UTIL: 80   #SUP: 1   #RECENCY: 0.43
+4 -1 1 -1 1 3 -1    #UTIL: 70   #SUP: 1   #RECENCY: 0.43
+4 -1 1 -1 2 3 -1    #UTIL: 50   #SUP: 1   #RECENCY: 0.43
+4 -1 4 -1 1 -1    #UTIL: 62   #SUP: 1   #RECENCY: 0.43
+4 -1 4 -1 1 2 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+4 -1 4 -1 1 2 3 -1    #UTIL: 82   #SUP: 1   #RECENCY: 0.43
+4 -1 4 -1 1 3 -1    #UTIL: 72   #SUP: 1   #RECENCY: 0.43
+4 -1 4 -1 2 3 -1    #UTIL: 52   #SUP: 1   #RECENCY: 0.43
+7 -1    #UTIL: 50   #SUP: 1   #RECENCY: 0.59
+7 -1 2 -1    #UTIL: 67   #SUP: 1   #RECENCY: 0.59

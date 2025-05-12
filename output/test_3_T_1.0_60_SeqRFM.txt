@@ -1,0 +1,40 @@
+1 -1    #UTIL: 40   #SUP: 2   #RECENCY: 2.00
+1 4 -1    #UTIL: 39   #SUP: 1   #RECENCY: 1.00
+1 4 -1 1 4 -1    #UTIL: 51   #SUP: 1   #RECENCY: 1.00
+1 4 -1 1 4 7 -1    #UTIL: 64   #SUP: 1   #RECENCY: 1.00
+1 4 -1 1 4 7 -1 7 -1    #UTIL: 104   #SUP: 1   #RECENCY: 1.00
+1 4 -1 1 4 -1 7 -1    #UTIL: 91   #SUP: 1   #RECENCY: 1.00
+1 4 -1 1 7 -1    #UTIL: 44   #SUP: 1   #RECENCY: 1.00
+1 4 -1 1 7 -1 7 -1    #UTIL: 84   #SUP: 1   #RECENCY: 1.00
+1 4 -1 1 -1 7 -1    #UTIL: 71   #SUP: 1   #RECENCY: 1.00
+1 4 -1 4 7 -1    #UTIL: 45   #SUP: 1   #RECENCY: 1.00
+1 4 -1 4 7 -1 7 -1    #UTIL: 85   #SUP: 1   #RECENCY: 1.00
+1 4 -1 4 -1 7 -1    #UTIL: 72   #SUP: 1   #RECENCY: 1.00
+1 4 -1 7 -1    #UTIL: 79   #SUP: 1   #RECENCY: 1.00
+1 4 -1 7 -1 7 -1    #UTIL: 65   #SUP: 1   #RECENCY: 1.00
+1 7 -1    #UTIL: 83   #SUP: 2   #RECENCY: 0.60
+1 -1 1 -1    #UTIL: 52   #SUP: 2   #RECENCY: 2.00
+1 -1 1 4 -1    #UTIL: 41   #SUP: 1   #RECENCY: 1.00
+1 -1 1 4 7 -1    #UTIL: 54   #SUP: 1   #RECENCY: 1.00
+1 -1 1 4 7 -1 7 -1    #UTIL: 94   #SUP: 1   #RECENCY: 1.00
+1 -1 1 4 -1 7 -1    #UTIL: 81   #SUP: 1   #RECENCY: 1.00
+1 -1 1 7 -1    #UTIL: 95   #SUP: 2   #RECENCY: 2.00
+1 -1 1 7 -1 7 -1    #UTIL: 74   #SUP: 1   #RECENCY: 1.00
+1 -1 1 -1 7 -1    #UTIL: 61   #SUP: 1   #RECENCY: 1.00
+1 -1 4 7 -1 7 -1    #UTIL: 75   #SUP: 1   #RECENCY: 1.00
+1 -1 4 -1 7 -1    #UTIL: 62   #SUP: 1   #RECENCY: 1.00
+1 -1 7 -1    #UTIL: 99   #SUP: 2   #RECENCY: 2.00
+1 -1 7 -1 7 -1    #UTIL: 55   #SUP: 1   #RECENCY: 1.00
+4 -1 1 4 -1    #UTIL: 49   #SUP: 1   #RECENCY: 1.00
+4 -1 1 4 7 -1    #UTIL: 62   #SUP: 1   #RECENCY: 1.00
+4 -1 1 4 7 -1 7 -1    #UTIL: 102   #SUP: 1   #RECENCY: 1.00
+4 -1 1 4 -1 7 -1    #UTIL: 89   #SUP: 1   #RECENCY: 1.00
+4 -1 1 7 -1    #UTIL: 42   #SUP: 1   #RECENCY: 1.00
+4 -1 1 7 -1 7 -1    #UTIL: 82   #SUP: 1   #RECENCY: 1.00
+4 -1 1 -1 7 -1    #UTIL: 69   #SUP: 1   #RECENCY: 1.00
+4 -1 4 7 -1    #UTIL: 43   #SUP: 1   #RECENCY: 1.00
+4 -1 4 7 -1 7 -1    #UTIL: 83   #SUP: 1   #RECENCY: 1.00
+4 -1 4 -1 7 -1    #UTIL: 70   #SUP: 1   #RECENCY: 1.00
+4 -1 7 -1    #UTIL: 60   #SUP: 1   #RECENCY: 1.00
+4 -1 7 -1 7 -1    #UTIL: 63   #SUP: 1   #RECENCY: 1.00
+7 -1    #UTIL: 70   #SUP: 2   #RECENCY: 0.60

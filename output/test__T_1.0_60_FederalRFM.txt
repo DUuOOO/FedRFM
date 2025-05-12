@@ -1,0 +1,11 @@
+1 4 -1 7 -1
+1 -1 7 -1
+===========  FederalRFM ALGORITHM - STATS =========
+alpha: 0.384
+beta: 0.16000000000000003
+gamma: 0.2
+timeSpan: 60
+Pre-Large Patterns size: 234
+RFM-Patterns size: 2
+Max memory: 9.030265808105469 MB
+Total time: 0.153 s
